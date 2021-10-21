@@ -16,7 +16,7 @@
 
 ## Links
 >- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
->- [Real Time Bus Tracker Repo](https://github.com/martha-moreno/PacMen)
+>- [PacMen Repo](https://github.com/martha-moreno/PacMen)
 
 ## License
 > MIT
