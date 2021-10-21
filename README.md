@@ -1,11 +1,13 @@
 # **PACMEN**
+![Screen Shot 2021-10-21 at 10 06 42 AM](https://user-images.githubusercontent.com/88118070/138324880-899a3556-222d-4ace-bcae-02d2f6d64a7d.png)
 
 ## Introduction
-> This project allows you to create an indefinite number of pacmen by clicking button "make one". Each pacman is added it in a random position. All pacmen bounce back from the perimeter of the screen
+> This project allows you to create an indefinite number of pacmen by clicking button "Add PacMan". Each PacMan is added in a random position. All pacmen bounce back from the perimeter of the screen
 
 ## Installation
->  Download XXXXX all together to the same location/folder
+>  Download all files (index.html, pacmen.js and all 4 images under the folder images) to the same location/folder
 >  Drag & Drop index html into your web browser
+>  Click button "Add PacMan" many times as PacMen you want to appear in the screen, then click the button "Start Game" to make the PacMen move
 
 ## Built With
 >- HTML
